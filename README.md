@@ -1,5 +1,5 @@
 # Mon premier dépôt git
-## Choses que je dois retenir:
+## Choses que je dois vraiment pas retenir (création d'un conflit):
 - git add
 - git commit
 - git status
